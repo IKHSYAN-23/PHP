@@ -17,29 +17,29 @@ echo"<br><br>";
 
 
 
-$nilai2 = 70;
+// $nilai2 = 70;
 
-	 if($nilai2 >85){
-		$nilaimutu="A";
-        $ket="selamat anda lulus";
-	 }elseif($nilai2 >68){
-		$nilaimutu="B";
-        $ket="selamat anda lulus";
-	 }elseif($nilai2 >56){
-		$nilaimutu="c";
-        $ket="selamat anda lulus";
-	 }elseif($nilai2 >45){
-		$nilaimutu="D";
-        $ket=" anda tidak lulus";
-	 }else{
-		$ket="tidak lulus";
-		$nilaimutu="E";
-	 }
+// 	 if($nilai2 >85){
+// 		$nilaimutu="A";
+//         $ket="selamat anda lulus";
+// 	 }elseif($nilai2 >68){
+// 		$nilaimutu="B";
+//         $ket="selamat anda lulus";
+// 	 }elseif($nilai2 >56){
+// 		$nilaimutu="c";
+//         $ket="selamat anda lulus";
+// 	 }elseif($nilai2 >45){
+// 		$nilaimutu="D";
+//         $ket=" anda tidak lulus";
+// 	 }else{
+// 		$ket="tidak lulus";
+// 		$nilaimutu="E";
+// 	 }
 
-	 echo "nilai anda ".$nilai2." maka mutu anda ".$nilaimutu." maka anda di nyatakan ".$ket;
+// 	 echo "nilai anda ".$nilai2." maka mutu anda ".$nilaimutu." maka anda di nyatakan ".$ket;
 
 
-    echo"<br><br>"
+//     echo"<br><br>"
 
 //cara ke 3
 // $nilai3 = 70;
